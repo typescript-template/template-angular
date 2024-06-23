@@ -11,3 +11,8 @@ node_modules/
 *.tar.*
 *.tgz
 *.zip
+
+*.ico
+*.png
+*.jpg
+*.jpeg
