@@ -1,1 +1,1 @@
-# {{project-name}} - Changelog
+# template-angular - Changelog

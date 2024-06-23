@@ -1,4 +1,4 @@
-# {{project-name}} - Readme
+# template-angular - Readme
 
 ## Contributing & Development
 
