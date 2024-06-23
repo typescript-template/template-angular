@@ -44,6 +44,16 @@ jspm_packages/
 
 # Build directory
 dist/
+/tmp
 
 # Environment Variables
 .env
+
+# (Angular) Miscellaneous
+/.angular/cache
+.sass-cache/
+/connect.lock
+/coverage
+/libpeerconnection.log
+testem.log
+/typings

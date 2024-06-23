@@ -4,5 +4,6 @@ dist/
 doc/
 doc*/
 node_modules/
+public/
 
 *.md
